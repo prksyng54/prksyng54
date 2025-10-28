@@ -1,5 +1,5 @@
 # 💫 About Me:
-Recent CS graduate with a minor in Biomedical Data Science, and an incoming Data Science master’s student at Columbia University. I apply ML, image processing, and data-driven methods to improve diagnostics and treatment. My work spans medical imaging, wearable health systems, and predictive modeling, building intelligent tools that connect computational innovation with clinical impact.
+Hi, I’m Selina, a Data Science graduate student at Columbia University with a background in computer science and biomedical data. My work focuses on developing machine learning models for healthcare applications, including wearable device analytics and predictive models for reproductive health. I am passionate about building data-driven tools that bridge the gap between AI research and real-world clinical impact.
 
 Feel free to reach out at sp4544@columbia.edu
 
